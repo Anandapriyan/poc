@@ -1,0 +1,14 @@
+{
+  "name": "shopifyAPILimit",
+  "version": "1.0.0",
+  "description": "An application to process the api call limit 429 error and solve it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shopify-node-api": "^1.7.6"
+  }
+}
